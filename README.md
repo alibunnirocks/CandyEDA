@@ -1,6 +1,6 @@
 # CandyEDA
 ## Overview
-This is an analysis of various candies commonly enjoyed on Halloween. We are specially looking to answer the question. "Are more expensive candies more popular? What about sugary candies?" 
+This is an analysis of various candies commonly enjoyed on Halloween. We are specially looking to answer the question. "Do candies with higher sugar content tend to be more popular?"
 ### Authors
 - Oluwagbemisola Bolarinwa
 - Alirat Oladejo
