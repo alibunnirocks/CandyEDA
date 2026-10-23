@@ -5,3 +5,5 @@ This is an analysis of various candies commonly enjoyed on Halloween. We are spe
 - Oluwagbemisola Bolarinwa
 - Alirat Oladejo
 ## Features
+- Graphs
+## Credits
