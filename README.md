@@ -12,7 +12,7 @@ This is an analysis of various candies commonly enjoyed on Halloween. We are spe
 - IDE: VSCode
 - Libraries (Python): Pandas, Seaborn, Matplotlib, Sklearn
 ## Findings
-We learned that candies with a higher sugar content tend to be more popular. However, it is important to note that the correlation is a weak positive correlation. That mean popularity is influenced by a multitude of other factors, not just sugar. 
+We learned that candies with a higher sugar content tend to be more popular. However, it is important to note that the correlation is a weak positive correlation. That mean popularity is influenced by a multitude of other factors, not just sugar. Although this is a small dataset, our findings can help debunk myths that sugar content is the sole reason that a candy is popular.
 ## Credits
 - Dataset: Halloween Candy Rankings
 - Author: Siddharth Vora
