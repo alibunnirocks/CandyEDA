@@ -5,5 +5,15 @@ This is an analysis of various candies commonly enjoyed on Halloween. We are spe
 - Oluwagbemisola Bolarinwa
 - Alirat Oladejo
 ## Features
-- Graphs
+- 2 scatterplots: One without best fit line and one with.
+- Scatterplot with best fit line uses linear regression
+## Tools
+- Language: Python
+- IDE: VSCode
+- Libraries (Python): Pandas, Seaborn, Matplotlib, Sklearn
+## Findings
+We learned that candies with a higher sugar content tend to be more popular. However, it is important to note that the correlation is a weak positive correlation. That mean popularity is influenced by a multitude of other factors, not just sugar. 
 ## Credits
+- Dataset: Halloween Candy Rankings
+- Author: Siddharth Vora
+- Link to dataset: https://www.kaggle.com/datasets/siddharth0935/halloween-candy-rankings/data
